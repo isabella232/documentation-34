@@ -1,0 +1,1 @@
+- use php code sniffer: http://www.jetbrains.com/phpstorm/webhelp/using-php-code-sniffer-tool.html

@@ -1,0 +1,280 @@
+<mockup version="1.0" skin="sketch" measuredW="1304" measuredH="764" mockupW="1152" mockupH="753">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="142" y="1" w="1096" h="753" measuredW="1440" measuredH="990" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <src>../../../../../../../../../C%3A%5CUsers%5CUser%5CDownloads%5Chome-backend4.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="142" y="74" w="1096" h="680" measuredW="100" measuredH="70" zOrder="1" locked="true" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="143" y="74" w="1095" h="36" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <color>16777215</color>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Canvas" x="1166" y="79" w="66" h="21" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="1179" y="78" w="39" h="21" measuredW="40" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Apply</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Icon" x="1131" y="79" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <icon>SaveIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="591" y="78" w="184" h="21" measuredW="176" measuredH="25" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Process%3A%20Create%20a%20new%20CCK</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="974" y="81" w="99" h="17" measuredW="115" measuredH="20" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>10</size>
+        <text>last%20save%3A%202%20seconds%20ago</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Icon" x="953" y="79" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SpinningIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Tooltip" x="953" y="99" w="152" h="33" measuredW="145" measuredH="33" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>working%20animation</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Accordion" x="142" y="103" w="150" h="365" measuredW="150" measuredH="374" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>10</selectedIndex>
+        <text>Steps%0A-%20Process%20step%0A-%20Event%20step%0AElements%0A-%20Form%0A-%20Grid%0A-%20Dialog%20box%0A-%20Message%0A-%20Redirect%0A-%20Existing%20process%0AEvents%0A-%20AJAX%20request%0A-%20Trigger%20PHP%20callback%0A-%20Trigger%20JS%20callback%0A-%20Send%20Email%0A-%20Generate%20PDF</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Canvas" x="569" y="147" w="257" h="66" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Label" x="638" y="155" w="-1" h="-1" measuredW="125" measuredH="25" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Create%20base%20entity</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Label" x="602" y="180" w="-1" h="-1" measuredW="196" measuredH="25" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5BEntity%3ACCK%20/%20Create%20new%20form%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Icon" x="674" y="197" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <icon>DotIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Arrow" x="609" y="224" w="76" h="100" measuredW="150" measuredH="100" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>0</curvature>
+        <direction>bottom</direction>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::TitleWindow" x="844" y="147" w="450" h="246" measuredW="450" measuredH="400" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <text>Condition%20settings</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::FieldSet" x="854" y="200" w="431" h="170" measuredW="200" measuredH="170" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Available%20conditions%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="869" y="229" w="-1" h="-1" measuredW="158" measuredH="25" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Form%20submission%20results%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::ComboBox" x="1126" y="228" w="144" h="-1" measuredW="81" measuredH="72" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Success%0AError%0AIgnore</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Arrow" x="638" y="170" w="216" h="121" measuredW="150" measuredH="100" zOrder="20" locked="true" isInGroup="-1">
+      <controlProperties>
+        <color>16767334</color>
+        <curvature>-1</curvature>
+        <direction>bottom</direction>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Canvas" x="475" y="330" w="257" h="66" measuredW="100" measuredH="70" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="532" y="339" w="-1" h="-1" measuredW="142" measuredH="25" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Create%20custom%20fields%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Label" x="539" y="364" w="-1" h="-1" measuredW="128" measuredH="25" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5BDialog%3A%20Confirmation%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::TitleWindow" x="844" y="405" w="450" h="246" measuredW="450" measuredH="400" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <text>Element%20settings</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Arrow" x="674" y="378" w="162" h="42" measuredW="150" measuredH="100" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16767334</color>
+        <curvature>1</curvature>
+        <direction>top</direction>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::FieldSet" x="854" y="443" w="431" h="170" measuredW="200" measuredH="170" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dialog%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Label" x="869" y="483" w="-1" h="-1" measuredW="141" measuredH="25" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Which%20dialog%20to%20show%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::ComboBox" x="1120" y="483" w="144" h="-1" measuredW="125" measuredH="72" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Message%20dialog%0AConfirmation%20dialog%0ACustom</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Label" x="869" y="570" w="-1" h="-1" measuredW="103" measuredH="25" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dialog%20message%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::TextInput" x="976" y="567" w="290" h="-1" measuredW="271" measuredH="29" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Do%20you%20now%20wish%20to%20create%20custom%20fields%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Icon" x="515" y="378" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>DotIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Arrow" x="450" y="405" w="76" h="100" measuredW="150" measuredH="100" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>0</curvature>
+        <direction>bottom</direction>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Canvas" x="319" y="514" w="257" h="66" measuredW="100" measuredH="70" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Label" x="376" y="523" w="-1" h="-1" measuredW="129" measuredH="25" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Show%20a%20list%20of%20CCKs</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Label" x="378" y="544" w="-1" h="-1" measuredW="124" measuredH="25" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5BEntity%3A%3ACCK%20/%20Grid%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Icon" x="591" y="315" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <icon>DotIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Icon" x="515" y="377" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <icon>DotIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Icon" x="431" y="503" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <icon>DotIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::Canvas" x="579" y="514" w="257" h="66" measuredW="100" measuredH="70" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Arrow" x="643" y="408" w="76" h="100" measuredW="150" measuredH="100" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>0</curvature>
+        <direction>top</direction>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Icon" x="623" y="381" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <icon>DotIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Icon" x="707" y="501" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <icon>DotIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Label" x="633" y="526" w="-1" h="-1" measuredW="180" measuredH="25" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Create%20custom%20field%20process</text>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::Label" x="643" y="547" w="-1" h="-1" measuredW="162" measuredH="25" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5BProcess%3Anew%20custom%20field%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Canvas" x="579" y="635" w="257" h="66" measuredW="100" measuredH="70" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Label" x="636" y="644" w="-1" h="-1" measuredW="129" measuredH="25" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Show%20a%20list%20of%20CCKs</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Label" x="638" y="665" w="-1" h="-1" measuredW="124" measuredH="25" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5BEntity%3A%3ACCK%20/%20Grid%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Icon" x="691" y="624" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <icon>DotIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Arrow" x="699" y="580" w="10" h="52" measuredW="150" measuredH="100" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>0</curvature>
+        <direction>top</direction>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Icon" x="685" y="566" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <icon>DotIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

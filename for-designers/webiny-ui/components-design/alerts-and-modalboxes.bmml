@@ -1,0 +1,49 @@
+<mockup version="1.0" skin="sketch" measuredW="1356" measuredH="486" mockupW="1213" mockupH="441">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="133" y="35" w="361" h="212" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="239" y="62" w="-1" h="-1" measuredW="136" measuredH="26" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Alert%20message%20title</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Paragraph" x="148" y="107" w="330" h="73" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>It%20is%20a%20long%20established%20fact%20that%20a%20reader%20will%20be%20distracted%20by%20the%20readable%20content%20of%20a%20page%20when%20looking%20at%20its%20layout.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="239" y="195" w="-1" h="-1" measuredW="126" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Standard%20button</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="462" y="50" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>XIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Paragraph" x="148" y="268" w="347" h="208" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20alert%20box%20is%20a%20simple%20box%20that%20contains%20title%2C%20a%20message%2C%20and%2C%20optionally%2C%20one%20or%20two%20buttons%20at%20the%20end.%0AThe%20content%20may%20contain%20standard%20text%2C%20bullets%20and%20links.%0AOptionally%20above%2C%20or%20below%20the%20box%20title%2C%20a%20message%20might%20be%20placed.%0AThe%20close%20button%20is%20in%20the%20top%20right%20corner.%20Some%20alert%20boxes%20will%20not%20have%20a%20close%20button.</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::TitleWindow" x="628" y="35" w="441" h="212" measuredW="450" measuredH="400" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <close>true</close>
+        <text>Modal%20box%20title</text>
+        <topheight>30</topheight>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::StickyNote" x="1163" y="107" w="183" h="165" measuredW="109" measuredH="123" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>In%20case%20of%20both%20boxes%2C%20when%20they%20are%20displayed%2C%20a%20semi-transparent%20overlay%20will%20appear%20across%20the%20page.</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Paragraph" x="643" y="268" w="411" h="150" measuredW="200" measuredH="140" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20difference%20between%20modal%20boxes%20and%20alert%20boxes%20is%20that%20modal%20boxes%20will%20usually%20contain%20more%20complex%20elements%20like%20forms%2C%20grids%20and%20similar%20and%20they%20will%20be%20%20bigger%20in%20size.%0AThe%20behavior%20of%20elements%20inside%20modalboxes%20must%20be%20similar%20to%20the%20main%20UI%20elements...%20they%20should%20only%20be%20adapted%20for%20a%20better%20usability%20due%20to%20limited%20space.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

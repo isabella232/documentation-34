@@ -1,0 +1,16 @@
+Text & Images:
+ - text block
+ - image
+ - video
+
+Forms:
+ - newsletter signup
+
+Navigation:
+ - menu
+ - list of languages
+ 
+Placeholders:
+ - template placeholder
+
+ 

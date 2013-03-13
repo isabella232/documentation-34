@@ -1,0 +1,107 @@
+<mockup version="1.0" skin="sketch" measuredW="1504" measuredH="477" mockupW="1391" mockupH="462">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="103" y="48" w="572" h="75" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="328" y="58" w="-1" h="-1" measuredW="69" measuredH="25" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="135" y="59" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>EmoticonIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="186" y="79" w="467" h="52" measuredW="642" measuredH="23" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>12</size>
+        <text>subline%20text%20subline%20text%20subline%20text%20subline%20text%20subline%20text%20subline%20text%20subline%20text%20subline%20text%20subline%20text%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="644" y="54" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>XIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Paragraph" x="103" y="131" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Message%20bar%20consists%20of%3A%0A-%20title%20%28required%29%0A-%20icon%20%28optional%29%0A-%20subline%20text%20%28optional%29%0A-%20close%20button%20%28optional%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Paragraph" x="338" y="131" w="200" h="134" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Required%20styles%3A%0A-%20info%0A-%20warning%0A-%20success%0A-%20error%0A-%20working%20%28rotating%20icon%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Paragraph" x="103" y="265" w="572" h="110" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20message%20must%20be%20able%20to%20be%20nested%20in%20other%20placeholders%20like%20divs%2C%20forms%2C%20modalboxes%20and%20it%20also%20must%20be%20able%20to%20be%20placed%20as%20a%20floating%20message.%0AThe%20message%20subline%20text%20will%20contain%20standard%20text%2C%20bullets%20and%20links.%0AThere%20will%20be%20situations%20where%20we%20will%20place%20multiple%20messages%20one%20beneath%20other%2C%20so%20keep%20in%20mind%20the%20paddings%20and%20margins.</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="328" y="5" w="-1" h="-1" measuredW="89" measuredH="32" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Messages</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="1110" y="18" w="-1" h="-1" measuredW="97" measuredH="32" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Action%20bar</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Canvas" x="821" y="50" w="673" h="120" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Paragraph" x="821" y="260" w="633" h="207" measuredW="200" measuredH="140" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Action%20bar%20is%20a%20bar%20that%20will%20hold%20main%20actions%20like%2C%20save%20%26%20cancel.%20The%20bar%20will%20aslo%20hold%20form%20elements%20that%20might%20go%20into%20multiple%20lines.%0AThe%20bar%20must%20have%20two%20types%20of%20styles%3A%0A-%20main%20action%20bar%0A-%20secondary%20action%20bar%0A%20%0AThe%20bar%20will%20often%20act%20as%20a%20placeholder%20for%20grid%20filters.%0AThe%20bar%20can%20consist%20of%20one%20side%20or%20of%20two%20sides.%20For%20each%20side%20elements%20can%20be%20floated%20to%20the%20left%20or%20to%20the%20right.</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="1347" y="62" w="-1" h="-1" measuredW="126" measuredH="28" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Standard%20button</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::HCurly" x="821" y="185" w="526" h="52" measuredW="200" measuredH="80" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>left%20side</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::HCurly" x="1347" y="185" w="141" h="52" measuredW="200" measuredH="80" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>right%20side</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="836" y="63" w="-1" h="-1" measuredW="66" measuredH="25" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Category%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::TextInput" x="911" y="61" w="167" h="-1" measuredW="77" measuredH="29" zOrder="16" locked="false" isInGroup="-1"/>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="836" y="103" w="-1" h="-1" measuredW="66" measuredH="25" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Category%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::TextInput" x="911" y="101" w="167" h="-1" measuredW="77" measuredH="29" zOrder="18" locked="false" isInGroup="-1"/>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="1093" y="64" w="-1" h="-1" measuredW="66" measuredH="25" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Category%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::TextInput" x="1168" y="62" w="167" h="-1" measuredW="77" measuredH="29" zOrder="20" locked="false" isInGroup="-1"/>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Label" x="1093" y="104" w="-1" h="-1" measuredW="66" measuredH="25" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Category%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::TextInput" x="1168" y="102" w="167" h="-1" measuredW="77" measuredH="29" zOrder="22" locked="false" isInGroup="-1"/>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Label" x="836" y="137" w="-1" h="-1" measuredW="66" measuredH="25" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Category%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::ComboBox" x="911" y="136" w="167" h="-1" measuredW="92" measuredH="25" zOrder="24" locked="false" isInGroup="-1"/>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::ComboBox" x="1168" y="136" w="167" h="-1" measuredW="92" measuredH="25" zOrder="25" locked="false" isInGroup="-1"/>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Label" x="1093" y="136" w="-1" h="-1" measuredW="66" measuredH="25" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Category%3A</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

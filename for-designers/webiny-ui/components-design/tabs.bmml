@@ -1,0 +1,20 @@
+<mockup version="1.0" skin="sketch" measuredW="1337" measuredH="419" mockupW="1174" mockupH="390">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TabBar" x="153" y="19" w="736" h="390" measuredW="254" measuredH="100" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TabBar" x="170" y="57" w="701" h="175" measuredW="254" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Paragraph" x="926" y="47" w="401" h="362" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tabs%20consist%20of%3A%0A-%20tab%20navigation%20%28un%5C-ordered%20list%29%0A-%20tab%20container%20%28div%29%0A%20%0AThe%20tab%20navigation%20must%20have%20following%20states%3A%0A-%20inactive%0A-%20active%0A-%20disabled%0A-%20hover%0A%20%0ATabs%20might%20be%20wrapped%20inside%20a%20form%2C%20or%20they%20might%20contain%20a%20form%20them%20self.%20Tabs%20might%20contain%20a%20message%20inside%20them%20or%20above%20them.%20Tabs%20might%20contain%20grids%20and%20action%20bars.%0AAlso%2C%20one%20tab%20set%20can%20contain%20another%20set.%20In%20that%20case%2C%20the%20tab%20navigation%20of%20the%20child%20element%20must%20be%20adapted%20in%20the%20design%20sense.</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="170" y="250" w="701" h="136" measuredW="200" measuredH="194" zOrder="3" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

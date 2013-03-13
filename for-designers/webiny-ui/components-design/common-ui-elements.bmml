@@ -1,0 +1,14 @@
+<mockup version="1.0" skin="sketch" measuredW="956" measuredH="476" mockupW="842" mockupH="442">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Paragraph" x="104" y="24" w="842" h="258" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20following%20text%20elements%20need%20to%20be%20designed%3A%0A%5C-%20headings%3A%201%5C-4%0A%5C-%20paragraph%0A%5C-%20links%20%28with%20states%3A%20normal%20and%20hover%20state%29%0A%5C-%20lists%20%28ul%20and%20ol%20up%20to%203%20subq-levels%20with%20multiline%20text%29%0A%5C-%20small%20text%20%28will%20usually%20be%20placed%20below%20input%20fields%20/%20can%20be%20multiline%29%20%0A%20%0APlaceholders%3A%0A%5C-%20normal%20%28usually%20a%20div%20that%20will%20hold%20other%20elements%29%0A%5C-%20highlighted%20placeholder%20%28a%20placeholder%20that%20should%20be%20highlighted%20on%20the%20page%20/%20adapth%20the%20text%20elements%20accordingly%20%29%0A%5C-%20help%20placeholder%20%28a%20placeholder%20that%20will%20contain%20some%20guidelines%20-%20poposal%3A%20use%20light%20blue%20color%20as%20a%20background%29%0A-%20depressed%20placeholder%20%28a%20placeholder%20that%20sould%20not%20standout%20on%20the%20page%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="104" y="282" w="712" h="184" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20Separators%3A%0A%5C-%20horizontal%0A%5C-%20vertical%0A%20%0ADrop%20downs%3A%0A%5C-%20a%20ul%20or%20ol%20list%20that%20will%20act%20like%20a%20drop-down%20menu%0A%5C-%20usually%20it%20will%20be%20opened%20by%20a%20drop-down%20button%20%28by%20might%20also%20be%20attached%20to%20a%20link%29%0A%5C-%20must%20have%20max-height%20defined%20with%20overflow%20set%20to%20scroll%0A%5C-%20show/hide%20will%20be%20handled%20by%20javascript</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

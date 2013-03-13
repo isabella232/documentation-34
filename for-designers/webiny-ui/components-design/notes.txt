@@ -1,0 +1,16 @@
+Guidelines that must be followed when designing a component:
+- each component must have its own css file which does not contain any inherited declarations
+- each component must contain a class
+- each class must have a prefix 'wbyui_'
+- the "id" attribute must be empty
+- the first class in each component must be the name of the component, example 'wbyui_alert_box'
+- the first class inside the component must contain the css "reset" declaration (don't apply the reset on the whole document)
+- each component must be created in it's own folder which must contain: html file, css file and optional images folder
+- component must behave identically on latest versions of: chrome, firefox, safari, ie and opera
+- prefered usage of HTML5 & CSS3
+- the flow of designing a component should be
+	1. photoshop proposal
+	2. html structure proposal (without the css)
+	3. css
+- all components must be grid-based
+- grid must be fluid, where optionally some parts can be fixed

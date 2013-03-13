@@ -1,0 +1,83 @@
+<mockup version="1.0" skin="sketch" measuredW="1134" measuredH="677" mockupW="970" mockupH="665">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="154" y="2" w="970" h="665" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//admin.webiny.com/</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="169" y="86" w="940" h="545" measuredW="100" measuredH="70" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <color>10470904</color>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="177" y="90" w="-1" h="-1" measuredW="103" measuredH="25" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Layer%201%3A%20Theme</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="184" y="115" w="910" h="501" measuredW="100" measuredH="70" zOrder="3" locked="true" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="190" y="119" w="-1" h="-1" measuredW="598" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Layer%202%3A%20Master%20layout%20%28controls%20the%20placement%20of%20menu%2C%20header%2C%20footer%20and%20layout%20wrappers%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="199" y="202" w="169" h="347" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="199" y="152" w="880" h="43" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="199" y="558" w="880" h="43" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="205" y="160" w="-1" h="-1" measuredW="54" measuredH="25" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Header</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="213" y="217" w="-1" h="-1" measuredW="37" measuredH="25" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Menu</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="213" y="566" w="-1" h="-1" measuredW="44" measuredH="25" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Footer</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Canvas" x="379" y="202" w="700" h="350" measuredW="100" measuredH="70" zOrder="11" locked="true" isInGroup="-1"/>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="394" y="208" w="-1" h="-1" measuredW="341" measuredH="25" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Layer%203%3A%20Layout%20wrapper%20%28standard%2C%20dashboard%2C%20etc.%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Canvas" x="394" y="233" w="670" h="301" measuredW="100" measuredH="70" zOrder="13" locked="true" isInGroup="-1">
+      <controlProperties>
+        <color>16770457</color>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="403" y="244" w="-1" h="-1" measuredW="283" measuredH="25" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Layer%204%3A%20Layout%20%28the%20layout%20template%20itself%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Canvas" x="403" y="269" w="652" h="256" measuredW="100" measuredH="70" zOrder="15" locked="true" isInGroup="-1">
+      <controlProperties>
+        <color>16370588</color>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="414" y="276" w="-1" h="-1" measuredW="259" measuredH="25" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Layer%205%3A%20Controller%20view%20-%20optional%20layer</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Canvas" x="414" y="299" w="626" h="211" measuredW="100" measuredH="70" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14706278</color>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="429" y="310" w="-1" h="-1" measuredW="186" measuredH="25" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Layer%206%3A%20Component%20template</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

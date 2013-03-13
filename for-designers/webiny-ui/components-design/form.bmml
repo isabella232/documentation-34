@@ -1,0 +1,114 @@
+<mockup version="1.0" skin="sketch" measuredW="1513" measuredH="539" mockupW="1375" mockupH="493">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="214" y="36" w="-1" h="-1" measuredW="82" measuredH="29" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Form%20title</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="214" y="160" w="539" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="214" y="135" w="-1" h="-1" measuredW="88" measuredH="25" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Fieldset%20title</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="228" y="80" w="525" h="37" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="424" y="85" w="-1" h="-1" measuredW="95" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Form%20messages</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="243" y="180" w="135" h="25" measuredW="79" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <text>Input%20label%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="393" y="177" w="360" h="-1" measuredW="77" measuredH="29" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16370588</color>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::StickyNote" x="1194" y="80" w="309" h="140" measuredW="109" measuredH="123" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>All%20forms%20must%20be%20grid%20based%2C%20sometime%20we%20will%20have%202%20column%20forms.%0AWe%20must%20be%20able%20to%20define%20the%20width%20of%20form%20elements%20based%20on%20grid%20layout.</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::StickyNote" x="1194" y="235" w="309" h="94" measuredW="109" measuredH="123" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>We%20must%20have%202%20different%20form%20layouts%2C%20standard%20and%20modalbox%20based.</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="243" y="243" w="135" h="25" measuredW="79" measuredH="25" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <text>Input%20label%3A</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::TextInput" x="393" y="240" w="360" h="-1" measuredW="77" measuredH="29" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="243" y="286" w="135" h="25" measuredW="79" measuredH="25" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <text>Input%20label%3A</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::TextInput" x="393" y="283" w="126" h="-1" measuredW="77" measuredH="29" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="243" y="329" w="135" h="25" measuredW="79" measuredH="25" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <text>Input%20label%3A</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::TextInput" x="534" y="283" w="219" h="-1" measuredW="168" measuredH="29" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2%20inputs%20in%20the%20same%20line</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="627" y="383" w="-1" h="-1" measuredW="126" measuredH="28" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Standard%20button</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Paragraph" x="823" y="80" w="297" h="449" measuredW="200" measuredH="140" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sometimes%20form%20fieldsets%20will%20be%20spread%20accross%20multiple%20tabs%2C%20so%20keep%20that%20in%20mind.%0A%20%0AForm%20elements%20must%20have%20the%20folowing%20styles%3A%0A-%20normal%20%28with%20optional%20style%20for%20the%20placeholder%29%0A-%20focus/active%0A-%20error%0A-%20working%20%28a%20loading%20icon%20displayed%20inside%20the%20input%20field%29%0A-%20distinctive%20difference%20between%20disabled%20and%20readonly%20fields%0A%20%0AAmong%20normal%20form%20elements%2C%20next%20elements%20need%20to%20be%20designed%3A%0A-%20date%20input%0A-%20search%20input%0A-%20email%20input%0A-%20url%20input%0A-%20multiple%20checkbox%20input%0A%5C-%20autocomplete%20%28with%20suggestion%20drop-down%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="393" y="205" w="-1" h="-1" measuredW="234" measuredH="20" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>10</size>
+        <text>form%20element%20message%20-%20normal%20/%20success%20/%20error</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::TextInput" x="393" y="326" w="194" h="-1" measuredW="77" measuredH="29" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="602" y="328" w="135" h="25" measuredW="108" measuredH="25" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <text>text%20after%20input</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Paragraph" x="128" y="44" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bar%20Refaeli%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

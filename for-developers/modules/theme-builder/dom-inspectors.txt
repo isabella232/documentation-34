@@ -1,0 +1,4 @@
+﻿http://www.selectorgadget.com/
+https://github.com/josscrowcroft/Simple-JavaScript-DOM-Inspector
+http://slayeroffice.com/tools/modi/v2.0/modi_help.html
+http://dzone.com/snippets/dom-mouse-over-element-0
