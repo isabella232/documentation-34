@@ -1,4 +1,4 @@
-documenation
+documentation
 ============
 
 Holds documentation about Webiny products, features and some other stuff. 
