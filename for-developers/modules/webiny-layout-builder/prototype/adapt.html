@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1"/>
+    <title>Unsemantic CSS Framework</title>
+    <!--[if lt IE 9]>
+    <script src="./assets/javascripts/html5.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="./assets/stylesheets/pavel.css"/>
+    <link rel="stylesheet" href="./assets/stylesheets/elements.css"/>
+    <link rel="stylesheet" href="./assets/stylesheets/demo.css"/>
+    <link rel="stylesheet" href="./assets/stylesheets/unsemantic-grid-base.css"/>
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.css"/>
+    <script>
+        var ADAPT_CONFIG = {
+            path: './assets/stylesheets/',
+            dynamic: true,
+            range: [
+                '0 to 767px = unsemantic-grid-mobile.css',
+                '767px = unsemantic-grid-desktop.css'
+            ]
+        };
+    </script>
+    <script src="./assets/javascripts/adapt.min.js"></script>
+    <script src="./assets/javascripts/jquery-1.9.1.js"></script>
+    <script src="./assets/javascripts/jquery-ui-1.10.2.custom.min.js"></script>
+    <script src="./assets/javascripts/backup.js"></script>
+    <script src="./assets/javascripts/elements.js"></script>
+</head>
+<body>
+
+<div class="grid-elements grid-15">
+    <ul id="presets" class="items">
+        <li class="grid-preset" data-grid="100">100%</li>
+        <li class="grid-preset" data-grid="50-50">50% + 50%</li>
+        <li class="grid-preset" data-grid="25-25-50">25% + 25% + 50%</li>
+        <li class="grid-preset" data-grid="25-75">25% + 75%</li>
+        <li class="grid-preset" data-grid="33-33-33">33% + 33% + 33%</li>
+        <li class="grid-preset" data-grid="25-25-25-25">25% + 25% + 25% + 25%</li>
+    </ul>
+    <ul id="elements" class="items">
+        <li class="element" data-type="tabs">Tabs</li>
+        <li class="element" data-type="fieldset">Fieldset</li>
+    </ul>
+</div>
+
+<fieldset class="grid-container grid-70 droppable-outer connectedSortable" id="layout-container">
+</fieldset>
+
+<div class="grid-elements grid-15">
+    <ul id="attributes" class="items">
+        <li class="attribute">Attribute 1</li>
+        <li class="attribute">Attribute 2</li>
+        <li class="attribute">Attribute 3</li>
+        <li class="attribute">Attribute 4</li>
+        <li class="attribute">Attribute 5</li>
+    </ul>
+</div>
+
+<script type="webiny/javascript" id="tabs-tpl">
+    <div id="tabs-{x}" class="html-element tabs sortable">
+        <ul>
+            <li><a href="#tabs-{x}-1">Nunc tincidunt</a></li>
+            <li><a href="#tabs-{x}-2">Proin dolor</a></li>
+            <li><a href="#tabs-{x}-3">Aenean lacinia</a></li>
+        </ul>
+        <div class="tab droppable-inner" id="tabs-{x}-1"></div>
+        <div class="tab droppable-inner" id="tabs-{x}-2"></div>
+        <div class="tab droppable-inner" id="tabs-{x}-3"></div>
+        <div class="clear"></div>
+    </div>
+</script>
+
+<script type="webiny/javascript" id="element-tpl">
+    <div class="grid-column grid-{x} droppable-inner connectedSortable">
+        <div class="grid-column-header">Drag</div>
+    </div>
+</script>
+
+<script type="webiny/javascript" id="fieldset-tpl">
+    <fieldset class="html-element sortable">
+        <legend>Fieldset {x}</legend>
+        <div class="droppable-inner"></div>
+    </fieldset>
+</script>
+
+</body>
+</html>

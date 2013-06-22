@@ -1,0 +1,182 @@
+.items li {
+    list-style: none;
+    border: 1px solid rgb(143, 143, 143);
+    margin: 2px;
+    padding: 10px;
+    background-color: #eeeeee;
+    border-radius: 10px;
+}
+
+#layout-container {
+    border: 2px solid rgb(204, 200, 200);
+    padding: 10px;
+    min-height: 100px;
+    margin-top: 2px;
+    border-radius: 10px;
+}
+
+fieldset {
+    text-align: left;
+    border: none;
+}
+
+#layout-container legend {
+    margin: 0 5px;
+    padding: 0 10px;
+    font-size: 18px;
+}
+
+#layout-container .ui-draggable {
+    list-style: none;
+}
+
+.droppable-inner {
+    border: 2px dashed rgb(204, 200, 200);
+    padding: 10px 10px 0px;
+    min-height: 50px;
+}
+
+/* Row wrapper (contains multiple grid columns) */
+.sortable {
+    background-color: #eeeeee;
+    padding: 0;
+    margin: 0 0 10px 0;
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid rgb(214, 214, 214);
+}
+
+.sortable-container {
+    padding: 10px;
+}
+
+.sortable-header {
+    padding: 10px;
+    background-color: #f38742;
+    border-radius: 10px 10px 0 0;
+}
+
+/* Single column of size X */
+.grid-column {
+    /*background-color: #daf359;*/
+    background-color: rgb(199, 199, 199);;
+    min-height: 68px;
+    border: 1px dashed black !important;
+    border-radius: 10px;
+    padding: 11px 0 4px 0;
+}
+
+.droppable-outer.ui-state-hover {
+    background-color: #f38742;
+}
+
+.droppable-outer.ui-state-active {
+    background-color: #f3001b;
+}
+
+.droppable-inner.ui-state-hover {
+    background-color: #8ab2f3;
+}
+
+.droppable-inner.ui-state-active {
+    background-color: #162bf3;
+}
+
+div.attribute {
+    background-color: #ffffff;
+    border: 1px dashed black;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 7px;
+}
+
+.droppable-placeholder {
+    margin: 5px 5px 15px;
+    border: 1px dashed black;
+    border-radius: 10px;
+    min-width: 50px;
+    list-style: none;
+}
+
+span.remove-attribute {
+    width: 12px;
+    height: 12px;
+    float: right;
+    background: url(icon-remove-dark.png) no-repeat;
+    margin: 3px 0 0 0;
+    cursor: pointer;
+}
+
+span.remove-row {
+    width: 12px;
+    height: 12px;
+    float: right;
+    background: url(icon-remove-dark.png) no-repeat;
+    margin: -6px 0 0 0;
+    cursor: pointer;
+    border: 1px solid rgb(119, 109, 80);
+}
+
+.attribute-placeholder-highlight {
+    margin: 0px 5px 5px;
+    border: 1px dashed black;
+    border-radius: 10px;
+    min-width: 50px;
+    list-style: none;
+    min-height: 41px;
+}
+
+#attributes .attribute-placeholder-highlight {
+    display: none;
+}
+
+.hide-placeholder > .attribute-placeholder-highlight {
+    display: none;
+}
+
+.grid-column-header {
+    background: url(icon-drag.png) no-repeat 4px 1px;
+    margin: 0px 0px 5px;
+    border: 1px solid rgb(204, 186, 186);
+    border-radius: 10px;
+    /*background-color: rgb(216, 210, 210);*/
+    background-color: rgb(59, 68, 107);
+    padding: 0 7px 0 24px;
+    font-size: 12px;
+    color: white;
+}
+
+.element-placeholder-highlight {
+    margin: 0px 5px 5px;
+    border: 1px dashed black;
+    border-radius: 10px;
+    min-width: 50px;
+    list-style: none;
+}
+
+.items .element-placeholder-highlight {
+    display: none;
+}
+
+/* *** DRAG HELPERS *** */
+
+.attribute-helper {
+    background-color: #ffffff;
+    border: 1px dashed black;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 7px;
+    list-style: none;
+    max-width: 180px;
+}
+
+.element-helper {
+    background-color: #ffffff;
+    border: 1px dashed black;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 7px;
+    list-style: none;
+    max-width: 180px;
+    max-height: 41px;
+}

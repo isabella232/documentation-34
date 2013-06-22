@@ -1,0 +1,16 @@
+.tab{
+    min-height:50px;
+    /*background-color: #daf359 !important;*/
+    background-color: #eee !important;
+}
+
+fieldset.sortable .droppable-inner {
+    border: none;
+    padding: 10px 10px 0px;
+    min-height: 50px;
+}
+
+fieldset.sortable{
+    display:block;
+    border: 1px dashed black;
+}

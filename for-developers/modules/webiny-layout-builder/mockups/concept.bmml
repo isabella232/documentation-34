@@ -1,0 +1,224 @@
+<mockup version="1.0" skin="sketch" measuredW="1788" measuredH="1023" mockupW="1637" mockupH="1000">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="141" y="13" w="1637" h="1000" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="429" y="147" w="998" h="732" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::SearchBox" x="1501" y="103" w="250" h="-1" measuredW="130" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Webshop.Invoice</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="1442" y="104" w="50" h="25" measuredW="50" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Entity%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="1442" y="147" w="309" h="634" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>7317724</color>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1466" y="166" w="273" h="53" measuredW="150" measuredH="78" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Invoice%20number%0AText%20%28Readonly%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1466" y="234" w="273" h="53" measuredW="178" measuredH="78" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Customer%0AMany2One%20%28Webshop.Client%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1466" y="302" w="273" h="53" measuredW="137" measuredH="78" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Date%20created%0ADate</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1466" y="370" w="273" h="53" measuredW="186" measuredH="78" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Currency%0AMany2One%20%28Webiny.Currency%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1466" y="438" w="273" h="53" measuredW="210" measuredH="78" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Invoice.Line%0AOne2Many%20%28Webshop.Invoice.Line%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1466" y="506" w="273" h="53" measuredW="178" measuredH="78" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Subtotal%0ADynamic%20%28Decimal%2C%20Readonly%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1466" y="574" w="273" h="53" measuredW="98" measuredH="78" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Discount%0ADecimal</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1466" y="642" w="273" h="53" measuredW="178" measuredH="78" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>VAT%0ADynamic%20%28Decimal%2C%20Readonly%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1466" y="712" w="273" h="53" measuredW="178" measuredH="78" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Total%0ADynamic%20%28Decimal%2C%20Readonly%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::MultilineButton" x="171" y="288" w="222" h="52" measuredW="152" measuredH="78" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Grid%20Column%0AResizeable%20Grid%20Column</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::MultilineButton" x="171" y="162" w="222" h="52" measuredW="165" measuredH="78" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tabs%20Container%0AContainer%20for%20tab%20widgets</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::MultilineButton" x="171" y="225" w="222" h="52" measuredW="137" measuredH="78" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Fieldset%0AFieldset%20with%20legend</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::MultilineButton" x="171" y="355" w="222" h="52" measuredW="111" measuredH="78" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Separator%0ALine%20separator</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::FieldSet" x="444" y="166" w="968" h="691" measuredW="200" measuredH="170" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Webshop%20Invoice</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Arrow" x="393" y="265" w="103" h="47" measuredW="150" measuredH="100" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Canvas" x="459" y="196" w="303" h="159" measuredW="100" measuredH="70" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedDotted</borderStyle>
+        <color>16770457</color>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Canvas" x="774" y="196" w="308" h="159" measuredW="100" measuredH="70" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedDotted</borderStyle>
+        <color>16770457</color>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Canvas" x="1095" y="196" w="302" h="159" measuredW="100" measuredH="70" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedDotted</borderStyle>
+        <color>16770457</color>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Arrow" x="388" y="179" w="44" h="55" measuredW="150" measuredH="100" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <curvature>1</curvature>
+        <direction>bottom</direction>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::MultilineButton" x="473" y="212" w="273" h="53" measuredW="150" measuredH="78" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Invoice%20number%0AText%20%28Readonly%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::MultilineButton" x="473" y="277" w="273" h="53" measuredW="178" measuredH="78" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Customer%0AMany2One%20%28Webshop.Client%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1109" y="211" w="274" h="53" measuredW="137" measuredH="78" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Date%20created%0ADate</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::MultilineButton" x="794" y="211" w="273" h="53" measuredW="186" measuredH="78" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Currency%0AMany2One%20%28Webiny.Currency%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1109" y="276" w="274" h="53" measuredW="111" measuredH="78" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Valid%20until%0ADate</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Canvas" x="459" y="371" w="938" h="167" measuredW="100" measuredH="70" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedDotted</borderStyle>
+        <color>16770457</color>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::MultilineButton" x="473" y="390" w="912" h="133" measuredW="210" measuredH="78" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Invoice.Line%0AOne2Many%20%28Webshop.Invoice.Line%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Canvas" x="459" y="553" w="616" h="287" measuredW="100" measuredH="70" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedDotted</borderStyle>
+        <color>16770457</color>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Canvas" x="1082" y="552" w="315" h="288" measuredW="100" measuredH="70" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedDotted</borderStyle>
+        <color>16770457</color>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1109" y="568" w="273" h="53" measuredW="178" measuredH="78" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Subtotal%0ADynamic%20%28Decimal%2C%20Readonly%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::MultilineButton" x="794" y="276" w="273" h="53" measuredW="98" measuredH="78" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Discount%0ADecimal</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1109" y="627" w="273" h="53" measuredW="98" measuredH="78" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Discount%0ADecimal</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1109" y="686" w="273" h="53" measuredW="178" measuredH="78" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>VAT%0ADynamic%20%28Decimal%2C%20Readonly%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1109" y="772" w="273" h="53" measuredW="178" measuredH="78" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Total%0ADynamic%20%28Decimal%2C%20Readonly%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::HRule" x="1110" y="751" w="271" h="-1" measuredW="100" measuredH="5" zOrder="40" locked="false" isInGroup="-1"/>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::MultilineButton" x="473" y="567" w="594" h="258" measuredW="192" measuredH="78" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tax%20Lines%0ADynamic%20%28One2Many%2C%20Readonly%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Accordion" x="156" y="94" w="263" h="782" measuredW="150" measuredH="115" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Layout%20elements</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Label" x="439" y="104" w="109" h="25" measuredW="107" measuredH="25" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Layout%20for%20view%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::TextInput" x="563" y="102" w="853" h="-1" measuredW="298" measuredH="29" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>action%20%28entity%3DWebshop.Invoice%26view%3Daction%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Canvas" x="428" y="94" w="999" h="49" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14001853</color>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

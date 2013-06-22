@@ -1,0 +1,363 @@
+<mockup version="1.0" skin="sketch" measuredW="1892" measuredH="901" mockupW="1829" mockupH="856">
+  <controls>
+    <control controlID="63" controlTypeID="__group__" x="53" y="170" w="-1" h="-1" measuredW="567" measuredH="289" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="33" controlTypeID="com.balsamiq.mockups::TitleWindow" x="0" y="0" w="567" h="289" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="63">
+          <controlProperties>
+            <bottomheight>0</bottomheight>
+            <close>true</close>
+            <dragger>false</dragger>
+            <maximizeRestore>false</maximizeRestore>
+            <text>Fieldset%20Settings</text>
+            <topheight>26</topheight>
+          </controlProperties>
+        </control>
+        <control controlID="41" controlTypeID="com.balsamiq.mockups::TabBar" x="12" y="33" w="544" h="210" measuredW="320" measuredH="100" zOrder="1" locked="false" isInGroup="63">
+          <controlProperties>
+            <selectedIndex>0</selectedIndex>
+            <text>General%2C%20Extra%20Tab%201%2C%20Extra%20Tab%202</text>
+          </controlProperties>
+        </control>
+        <control controlID="42" controlTypeID="com.balsamiq.mockups::Button" x="419" y="250" w="65" h="28" measuredW="65" measuredH="28" zOrder="2" locked="false" isInGroup="63">
+          <controlProperties>
+            <color>15790322</color>
+            <text>Cancel</text>
+          </controlProperties>
+        </control>
+        <control controlID="43" controlTypeID="com.balsamiq.mockups::Button" x="490" y="250" w="61" h="28" measuredW="59" measuredH="28" zOrder="3" locked="false" isInGroup="63">
+          <controlProperties>
+            <color>16750848</color>
+            <text>SAVE</text>
+          </controlProperties>
+        </control>
+        <control controlID="44" controlTypeID="com.balsamiq.mockups::TextInput" x="104" y="86" w="435" h="-1" measuredW="57" measuredH="29" zOrder="4" locked="false" isInGroup="63">
+          <controlProperties>
+            <text>Legend</text>
+          </controlProperties>
+        </control>
+        <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="36" y="87" w="55" h="25" measuredW="55" measuredH="25" zOrder="5" locked="false" isInGroup="63">
+          <controlProperties>
+            <text>Legend%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="47" controlTypeID="com.balsamiq.mockups::Label" x="36" y="124" w="51" h="25" measuredW="51" measuredH="25" zOrder="6" locked="false" isInGroup="63">
+          <controlProperties>
+            <text>Visible%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="48" controlTypeID="com.balsamiq.mockups::ComboBox" x="104" y="124" w="435" h="-1" measuredW="75" measuredH="72" zOrder="7" locked="false" isInGroup="63">
+          <controlProperties>
+            <text>Always%0ARole%20based%0ACondition</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="64" controlTypeID="__group__" x="53" y="35" w="-1" h="-1" measuredW="567" measuredH="123" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="32" controlTypeID="com.balsamiq.mockups::TitleWindow" x="0" y="0" w="567" h="123" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="64">
+          <controlProperties>
+            <bottomheight>0</bottomheight>
+            <close>true</close>
+            <dragger>false</dragger>
+            <maximizeRestore>true</maximizeRestore>
+            <text>Fieldset</text>
+            <topheight>26</topheight>
+          </controlProperties>
+        </control>
+        <control controlID="35" controlTypeID="com.balsamiq.mockups::Canvas" x="12" y="35" w="544" h="72" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="64">
+          <controlProperties>
+            <borderStyle>roundedDotted</borderStyle>
+          </controlProperties>
+        </control>
+        <control controlID="38" controlTypeID="com.balsamiq.mockups::Canvas" x="27" y="25" w="69" h="23" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="64">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+          </controlProperties>
+        </control>
+        <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="36" y="25" w="-1" h="-1" measuredW="52" measuredH="26" zOrder="3" locked="false" isInGroup="64">
+          <controlProperties>
+            <italic>false</italic>
+            <size>14</size>
+            <text>Legend</text>
+          </controlProperties>
+        </control>
+        <control controlID="40" controlTypeID="com.balsamiq.mockups::Label" x="146" y="52" w="-1" h="-1" measuredW="273" measuredH="34" zOrder="4" locked="false" isInGroup="64">
+          <controlProperties>
+            <color>13421772</color>
+            <size>20</size>
+            <text>Drop%20content%20elements%20here</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::TitleWindow" x="668" y="252" w="567" h="477" measuredW="450" measuredH="400" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <close>true</close>
+        <dragger>false</dragger>
+        <maximizeRestore>false</maximizeRestore>
+        <text>Tabs%20Settings</text>
+        <topheight>26</topheight>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::TabBar" x="679" y="285" w="544" h="394" measuredW="321" measuredH="100" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <text>General%2C%20Tab%201%2C%20Tab%202%2C%20+%20Add%20tab</text>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Button" x="1091" y="686" w="65" h="28" measuredW="65" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15790322</color>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Button" x="1162" y="686" w="61" h="28" measuredW="59" measuredH="28" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <text>SAVE</text>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Label" x="703" y="337" w="55" h="25" measuredW="41" measuredH="25" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Title%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::TitleWindow" x="668" y="35" w="567" h="190" measuredW="450" measuredH="400" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <close>true</close>
+        <dragger>false</dragger>
+        <maximizeRestore>true</maximizeRestore>
+        <text>Tabs</text>
+        <topheight>26</topheight>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::TabBar" x="679" y="64" w="544" h="149" measuredW="192" measuredH="100" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>Tab%201%2C%20Tab%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Canvas" x="690" y="102" w="520" h="97" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedDotted</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Label" x="823" y="133" w="273" h="34" measuredW="273" measuredH="34" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <size>20</size>
+        <text>Drop%20content%20elements%20here</text>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::TextInput" x="822" y="336" w="384" h="-1" measuredW="51" measuredH="29" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tab%201</text>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::TabBar" x="694" y="380" w="514" h="285" measuredW="308" measuredH="100" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>Visibility%2C%20First%20open%2C%20Each%20open</text>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::SearchBox" x="717" y="449" w="463" h="-1" measuredW="184" measuredH="25" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>cms.blogger%2C%20seo.manager</text>
+      </controlProperties>
+    </control>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::Button" x="715" y="608" w="-1" h="-1" measuredW="122" measuredH="28" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>+%20Add%20condition</text>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::ComboBox" x="714" y="538" w="138" h="-1" measuredW="65" measuredH="25" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Total</text>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::ComboBox" x="858" y="539" w="138" h="-1" measuredW="92" measuredH="25" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Less%20than</text>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::TextInput" x="1000" y="537" w="180" h="-1" measuredW="45" measuredH="29" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>5000</text>
+      </controlProperties>
+    </control>
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::FieldSet" x="705" y="426" w="490" h="70" measuredW="200" measuredH="170" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Role%20based</text>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::FieldSet" x="705" y="511" w="490" h="140" measuredW="200" measuredH="170" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Conditional</text>
+      </controlProperties>
+    </control>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::ComboBox" x="715" y="573" w="138" h="-1" measuredW="116" measuredH="25" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Date%20created</text>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::ComboBox" x="859" y="574" w="138" h="-1" measuredW="115" measuredH="25" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Greater%20than</text>
+      </controlProperties>
+    </control>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::TextInput" x="1001" y="572" w="180" h="-1" measuredW="88" measuredH="29" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>21.12.2013</text>
+      </controlProperties>
+    </control>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::TabBar" x="1292" y="72" w="414" h="132" measuredW="308" measuredH="100" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <text>Visibility%2C%20First%20open%2C%20Each%20open</text>
+      </controlProperties>
+    </control>
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::Label" x="1307" y="112" w="101" h="25" measuredW="99" measuredH="25" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Trigger%20event%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::TextInput" x="1417" y="110" w="274" h="-1" measuredW="128" measuredH="29" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>mytabs.first_open</text>
+      </controlProperties>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::StickyNote" x="350" y="511" w="285" h="167" measuredW="109" measuredH="123" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Condition%20propertyji%20bi%20trebali%20ovisiti%20o%20Entitetu%20za%20koji%20radis%20layout.%0ANe%20znam%20%u0161ta%20%u0107e%20tu%20biti%20u%20frontendu%2C%20tj.%20za%20layoute%20koji%20idu%20u%20frontend.</text>
+      </controlProperties>
+    </control>
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::Arrow" x="212" y="314" w="534" h="100" measuredW="150" measuredH="100" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ovo%20dvoje%20je%20tehni%u010Dki%20isto%2C%20samo%20treba%20vidjeti%20%u0161ta%20je%20vi%u0161e%20usable</text>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::Arrow" x="852" y="158" w="460" h="229" measuredW="150" measuredH="100" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>0</curvature>
+        <direction>bottom</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::Label" x="1417" y="137" w="-1" h="-1" measuredW="182" measuredH="25" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>8554646</color>
+        <text>*%20Leave%20empty%20to%20do%20nothing</text>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::Canvas" x="1313" y="332" w="414" h="49" measuredW="100" measuredH="70" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::Label" x="1325" y="344" w="-1" h="-1" measuredW="211" measuredH="25" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Invoice%20number%20%28Text%2C%20Readonly%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::Icon" x="1691" y="344" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CircledXIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::Icon" x="1661" y="344" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GearIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::TitleWindow" x="1312" y="391" w="567" h="311" measuredW="450" measuredH="400" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <close>true</close>
+        <dragger>false</dragger>
+        <maximizeRestore>false</maximizeRestore>
+        <text>%22Invoice%20number%22%20Settings</text>
+        <topheight>26</topheight>
+      </controlProperties>
+    </control>
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::TabBar" x="1323" y="424" w="544" h="264" measuredW="222" measuredH="100" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>General%2C%20Template</text>
+      </controlProperties>
+    </control>
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::Label" x="1347" y="476" w="55" h="25" measuredW="44" measuredH="25" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Label%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::TextInput" x="1433" y="476" w="419" h="-1" measuredW="108" measuredH="29" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Invoice%20number</text>
+      </controlProperties>
+    </control>
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::Label" x="1347" y="511" w="55" h="25" measuredW="53" measuredH="25" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tooltip%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::TextInput" x="1433" y="510" w="419" h="-1" measuredW="292" measuredH="29" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>This%20is%20the%20system%20generated%20invoice%20number</text>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::Label" x="1347" y="544" w="55" h="25" measuredW="40" measuredH="25" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Help%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::TextInput" x="1433" y="543" w="419" h="-1" measuredW="289" measuredH="29" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>This%20number%20will%20be%20printed%20on%20your%20invoices</text>
+      </controlProperties>
+    </control>
+    <control controlID="135" controlTypeID="com.balsamiq.mockups::Label" x="1347" y="577" w="75" h="25" measuredW="75" measuredH="25" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Validators%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="136" controlTypeID="com.balsamiq.mockups::TextInput" x="1433" y="577" w="80" h="-1" measuredW="64" measuredH="29" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>required</text>
+      </controlProperties>
+    </control>
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::Button" x="1433" y="645" w="-1" h="-1" measuredW="124" measuredH="28" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>+%20Add%20validator</text>
+      </controlProperties>
+    </control>
+    <control controlID="140" controlTypeID="com.balsamiq.mockups::TextInput" x="1516" y="578" w="336" h="-1" measuredW="180" measuredH="29" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Invoice%20number%20is%20required</text>
+      </controlProperties>
+    </control>
+    <control controlID="141" controlTypeID="com.balsamiq.mockups::TextInput" x="1433" y="611" w="80" h="-1" measuredW="45" measuredH="29" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>min%3A6</text>
+      </controlProperties>
+    </control>
+    <control controlID="142" controlTypeID="com.balsamiq.mockups::TextInput" x="1516" y="612" w="336" h="-1" measuredW="332" measuredH="29" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Invoice%20number%20must%20contain%20at%20least%206%20characters</text>
+      </controlProperties>
+    </control>
+    <control controlID="143" controlTypeID="com.balsamiq.mockups::StickyNote" x="1292" y="679" w="590" h="212" measuredW="109" measuredH="123" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Palo%20mi%20je%20na%20pamet%20da%20bi%20mo%u017Eda%20bolje%20bilo%20da%20ove%20stvari%20koje%20se%20ti%u010Du%20renderiranja%20view-a%20bile%20preba%u010Dene%20u%20layout%20builder%2C%20jer%20%u0107e%u0161%20time%20dobiti%20mogu%u0107nost%20prikaza%20istog%20propertyja%20na%20razli%u010Dit%20na%u010Din%20u%20razli%u010Ditim%20layoutima%2C%20sa%20razli%u010Ditim%20validatorima%20i%20labelovima%2C%20etc.%20Time%20smanjimo%20Entity%20structure%20i%20dobijemo%20na%20fleksibilnosti%20View-a.%0A%20%0AJedino%20me%20tu%20mu%u010Di%20onda%20server%20side%20validacija%2C%20jer%20bi%20morao%20ovisno%20o%20layoutu%20loadati%20validatore%20u%20PHP-u%20i%20onda%20raditi%20validaciju%20iz%20toga%20%28ne%20znam%20kolko%20je%20to%20dobro%29.</text>
+      </controlProperties>
+    </control>
+    <control controlID="144" controlTypeID="com.balsamiq.mockups::StickyNote" x="1323" y="252" w="376" h="68" measuredW="109" measuredH="123" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Kada%20dropa%u0161%20property%20Entitety%20negdje%20u%20layout</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
